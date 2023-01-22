@@ -1,0 +1,21 @@
+
+    .tic{
+        width:613px;
+        height:600px;
+        border:solid 1px;
+        margin: 0px 0px 0px 0px ;
+        padding:  0px 0px 0px 0px ;
+            
+        }
+        .celula{
+            height: 200px;
+            width: 200px;
+            background-color: yellow;
+            display:  inline-block;
+            padding:  0px 0px 0px 0px;
+            border: 0px;
+            
+        }
+        #div1{
+            padding:  0px 0px 0px 0px;
+        }
