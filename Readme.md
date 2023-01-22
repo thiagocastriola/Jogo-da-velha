@@ -1,1 +1,1 @@
-Pequeno projeto de um jogo da velha(TicTacToe) desenvolvido em Java Script para estudos 
+Pequeno projeto de um jogo da velha desenvolvido em Java Script para estudos 
